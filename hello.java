@@ -4,6 +4,9 @@ public class hello {
 		// TODO Auto-generated method stub
 	System.out.println("Hello kagura, selamat sore udah malem ini!");
 	
+	System.out.println("Sudah makan belum?");
+	
+	
 	}
 	
 }
